@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# first_repo_test
-=======
-# Git Basics
+Version 1.0 - 05/04/2025
 
-Bonjour le sang tu as la forme
-
-table of content
-
->>>>>>> 29b73ec (Salut)
+Test cours push/pull
